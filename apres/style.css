@@ -361,6 +361,10 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+.col-sm-4 > a {
+    color: #FFFFFF;
+
+}
 
 @media (min-width: 768px) {
     .site-navigation {
@@ -930,7 +934,6 @@ h4 {
         text-align: left;
         padding-left: 15px;
         width: 100%;
-        color: #FFFFFF;
     }
     .nav > li:hover {
         background: rgba(0, 0, 0, .08);
