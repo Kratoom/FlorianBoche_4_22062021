@@ -361,8 +361,8 @@ a:hover {
     position: relative;
     z-index: 2;
 }
-.row a {
-    color: #FFFFFF;
+.row .col-sm-4 .ul a {
+    color: #FFFFFF!important;
 
 }
 
