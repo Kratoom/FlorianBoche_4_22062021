@@ -1438,13 +1438,6 @@ img {
     max-width: 100%;
     height: auto
 }
-@media (min-width:768px) {
-    .thumbnail>img {
-        max-width: 50%;
-        height: auto
-    }
-}
-
 .img-rounded {
     border-radius: 6px
 }

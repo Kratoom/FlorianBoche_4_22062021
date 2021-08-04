@@ -755,7 +755,7 @@ h4 {
 .portfolio-row img{
     max-width: 320px;
 }
-@media (min-width:780px) {
+@media (min-width:1024px) {
     .portfolio-row img{
      max-width: 100%;
     }
